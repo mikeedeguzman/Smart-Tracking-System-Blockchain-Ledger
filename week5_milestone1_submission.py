@@ -9,7 +9,7 @@ CSV_FILE = "MO-IT148 Homework_ IoT Data Simulation H3101 TEAM CTRL+ALT+ELITE ADE
 GANACHE_URL = "http://127.0.0.1:7545"
 
 # Replace this with the full deployed contract address copied from Remix.
-CONTRACT_ADDRESS = "0xAF5D8457982f15462235ADa59BF7a5d97a7D022C"
+CONTRACT_ADDRESS = "0x7457Ee1dE229eDfdc37a4f1CeCc1524cD1efa9d8"
 
 ABI = [
     {
