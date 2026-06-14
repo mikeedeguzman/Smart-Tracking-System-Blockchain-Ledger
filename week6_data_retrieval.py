@@ -4,7 +4,7 @@ from web3 import Web3
 
 # Configuration
 GANACHE_URL = "http://127.0.0.1:7545"
-CONTRACT_ADDRESS = "0xAF5D8457982f15462235ADa59BF7a5d97a7D022C"
+CONTRACT_ADDRESS = "0x7457Ee1dE229eDfdc37a4f1CeCc1524cD1efa9d8"
 
 # ABI is required to interact with the contract
 ABI = [
