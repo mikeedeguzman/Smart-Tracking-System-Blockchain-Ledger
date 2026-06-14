@@ -59,8 +59,6 @@ df = pd.DataFrame(data)
 df["timestamp"] = pd.to_datetime(df["timestamp"], unit="s")
 
 # Clean data: Extract numeric values from 'data_value'
-# The data_value contains mixed formats, e.g., "Temp: 22.5 C | Humidity: 50%"
-# Extracting the first floating point number found
 df["numeric_value"] = df["data_value"].str.extract(r'(\d+\.?\d*)').astype(float)
 
 # Handle missing values
