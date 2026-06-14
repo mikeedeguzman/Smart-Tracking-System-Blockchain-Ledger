@@ -30,7 +30,7 @@ python week5_milestone1_submission.py
 
 ## Recorded Submission Output
 
-- Contract address: `0xAF5D8457982f15462235ADa59BF7a5d97a7D022C`
+- Contract address: `0x7457Ee1dE229eDfdc37a4f1CeCc1524cD1efa9d8`
 - Ganache RPC server: `http://127.0.0.1:7545`
 - Records already present before CSV upload: `2`
 - CSV records uploaded successfully: `80`
